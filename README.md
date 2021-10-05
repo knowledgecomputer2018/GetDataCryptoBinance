@@ -1,3 +1,9 @@
+# GetDataCryptoBinance
+
+Get Data Crypto by exchange Binance
+
+#------
+
 سلام 
 
 گرفتن داده های ارز های دیجیتال از وب سایت بایننس
@@ -143,7 +149,4 @@ GetHistoricalCandle.py
 موفق باشید
 به امید خدا 
 
-#----
-# GetDataCryptoBinance
-Get Data Crypto by exchange Binance
  
