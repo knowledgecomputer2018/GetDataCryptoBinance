@@ -21,7 +21,9 @@ python GUIrequest.py
 سوال :برنامه چه کار می کند ؟
 
 جواب :
+ 
  1- گرفتن داده های ارز های دیجیتال به صورت تایم فریم های زیر
+
 KLINE_INTERVAL_1MINUTE = '1m'
 
 KLINE_INTERVAL_3MINUTE = '3m'
