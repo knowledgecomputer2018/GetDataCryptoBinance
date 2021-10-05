@@ -10,6 +10,7 @@
 جواب: 
 
 ابتدا در مسیر برنامه کامند لاین را باز کنید و کامند زیر را وارد کنید :
+
 python GUIrequest.py
 
 ![1](https://user-images.githubusercontent.com/61306250/136050245-3efd03f2-ff3e-4c30-9eed-dd778c346e1f.JPG)
@@ -77,12 +78,20 @@ CSV
 1- ساخت اکانت بایننس 
 
 2- گرفتن دو مقدار 
-api_key ,secret 
+
+api_key ,secret key
+
 از وب سایت بایننس 
 
 3-  این دومقدار در فایل 
+
 GetHistoricalCandle.py
+
 خط 591و 592 جلوی دومقداریا دومتغیر قرار دهید .
+
+
+![4](https://user-images.githubusercontent.com/61306250/136055211-d3de3b8c-8fce-477c-a3e5-0639ccee26f5.JPG)
+
 
 #----
 
